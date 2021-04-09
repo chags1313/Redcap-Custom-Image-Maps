@@ -10,5 +10,5 @@ Enable Custom Imagemap as an external module
 
 - Link to github page for redcap_customimagemap: https://github.com/redcapuzgent/redcap_customimagemap
 
-- Link to create your own custom image map: https://www.image-maps.com/
+- Link for custom image map creation: https://www.image-maps.com/
  
