@@ -9,4 +9,4 @@
 - Action tag:
 @CUSTOM_IMAGEMAP=registerImageMap("faces", "faces_id", "face_choices", "rgba(255, 0, 0, 0.2)", "data-key")
 
-<img src= https://github.com/chags1313/Redcap-Custom-Image-Maps/blob/main/FacesOfPain/faceofpain.PNG?raw=true /img>
+<img src= "https://github.com/chags1313/Redcap-Custom-Image-Maps/blob/main/FacesOfPain/faceofpain.PNG?raw=true" /img>
