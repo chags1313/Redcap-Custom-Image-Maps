@@ -1,4 +1,4 @@
-## Faces of Pain Scale
+## Faces Pain Scale
 
 - Descriptive field text
 - Field note:
