@@ -10,3 +10,6 @@
 @CUSTOM_IMAGEMAP=registerImageMap("faces", "faces_id", "face_choices", "rgba(255, 0, 0, 0.2)", "data-key")
 
 ![image](https://user-images.githubusercontent.com/61998370/114245295-d03f2080-9955-11eb-9dfa-64f5efff60f7.png)
+
+![image](https://user-images.githubusercontent.com/61998370/114245459-23b16e80-9956-11eb-8c87-203ff0575f39.png)
+
