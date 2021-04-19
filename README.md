@@ -12,3 +12,5 @@ Enable Custom Imagemap as an external module
 
 - Link for custom image map creation: https://www.image-maps.com/
  
+ 
+ <i> Tutorial article: </i>https://cole-hagen.medium.com/how-to-create-a-custom-imagemap-for-your-redcap-project-5489305168db
